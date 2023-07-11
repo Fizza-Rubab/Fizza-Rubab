@@ -5,8 +5,5 @@ Hello, my name is Fizza Rubab and I recently graduated from [Habib University](h
 - 👩🏻‍💻 I am currently interning at [Empathic Computing Lab](http://empathiccomputing.org/) to predict cognitive load from EEG data and galvanic sensor data.
 - 💬 Brainstorm with me over tech, AI, algorithms, anime and life 
 - 📫 How to reach me: fizzaa39@gmail.com
-- 📝 [Resume](https://github.com/Fizza-Rubab/Resume/blob/main/resume.pdf)
-
-![Fizza's Github Stats](https://github-readme-stats.vercel.app/api?username=Fizza-Rubab&count_private=true&show_icons=true&include_all_commits=true)
-
+  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Fizza-Rubab.Fizza-Rubab)
