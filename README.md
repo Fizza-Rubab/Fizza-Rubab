@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Fizza](https://www.linkedin.com/in/fizza-rubab-256bb41b4/)!
+### Hi there 👋, I am [Fizza](https://fizza-rubab.github.io/)!
 
 Hello, my name is Fizza Rubab and I recently graduated from [Habib University](https://habib.edu.pk/) with a Bachelor's degree in Computer Science and double minors in Mathematics and Electrical Engineering.
 - 🌿 I am working full time as a Machine Learning Engineer at [Farmevo](https://farmevo.ai/), a precision agriculture startup in Pakistan.
