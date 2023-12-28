@@ -4,7 +4,7 @@ Hello, my name is Fizza Rubab and I recently graduated from [Habib University](h
 - 🌿 I am working full time as a Machine Learning Engineer at [Farmevo](https://farmevo.ai/), a precision agriculture startup in Pakistan.
 - 💻 I am a research intern working on Cryo-ET classification, reconstruction and particle picking at [Carnegie Mellon University](https://www.cmu.edu/).
 - ✵ I was a summer research student at [Wolfram Summer School 2023](https://education.wolfram.com/summer-school) working on 3D Human Pose Estimation.
-- 👩🏻‍💻 I interned at [Empathic Computing Lab](http://empathiccomputing.org/) to predict cognitive load from EEG data and galvanic sensor data.
+- 👩🏻‍💻 I interned at [Empathic Computing Lab](http://empathiccomputing.org/) to predict cognitive load from EEG data, galvanic sensor, and pupil dilation data.
 - 💬 Brainstorm with me over tech, AI, algorithms, and anime.
 - 📫 How to reach me: fizzaa39@gmail.com
   
