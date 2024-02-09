@@ -1,7 +1,7 @@
 ### Hi there 👋, I am [Fizza](https://fizza-rubab.github.io/)!
 
 Hello, my name is Fizza Rubab and I recently graduated from [Habib University](https://habib.edu.pk/) with a Bachelor's degree in Computer Science and double minors in Mathematics and Electrical Engineering.
-- 💻 I am working as a Visiting Researcher at [MPII](mpi-inf.mpg.de).
+- 📋 I am working as a Visiting Research Intern at [MPII](mpi-inf.mpg.de).
 - 🌿 I worked full time as a Machine Learning Engineer at [Farmevo](https://farmevo.ai/), a precision agriculture startup in Pakistan.
 - 💻 I am a research intern working on Cryo-ET classification, reconstruction and particle picking at [Carnegie Mellon University](https://www.cmu.edu/).
 - ✵ I was a summer research student at [Wolfram Summer School 2023](https://education.wolfram.com/summer-school) working on 3D Human Pose Estimation.
